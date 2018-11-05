@@ -1,0 +1,165 @@
+header {
+    margin-top: 10em;
+    margin-bottom: 1em;
+    text-align: center;
+    background-color: #E63946;
+    color: #F1FAEE;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 3em;
+    margin: 0;
+    padding-top: 2em;
+}
+
+h2 {
+    font-family: poppins;
+    font-weight: 100;
+    margin: 0;
+    padding-bottom: 2em;
+}
+
+
+
+.preamble {
+    margin-top: 1em;
+    margin-bottom: 10em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    text-align: center;
+    font-family: poppins;
+    background-color: #1D3557;
+    color: #F1FAEE;
+}
+.preamble p abbr {
+    color: #E63946;
+}
+
+.explanation {
+    margin-top: 5em;
+    width: 60%;
+    background-color: #457B9D;
+    padding-left: 7em;
+    font-size: 1em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+.explanation p abbr{
+    color: #1D3557;
+}
+
+
+body {
+    background-color: #F1FAEE;
+    margin: 0;
+}
+
+.summary {
+    text-align: center;
+    font-family: poppins;
+    font-weight: 300;
+    background-color: #457B9D;
+    color: #F1FAEE;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.summary p a {
+    text-decoration: none;
+    color: #1D3557;
+}
+
+p {
+    margin: 0;
+}
+
+.preamble h3 {
+    font-weight: 300;
+    margin: 0;
+    padding-bottom: .8em;
+}
+
+.explanation h3 {
+    
+}
+
+.preamble p {
+    font-weight: 200;
+    padding-bottom: .2em;
+}
+
+#zen-supporting {
+    font-family: poppins;
+    color: #F1FAEE;
+}
+
+.participation {
+    background-color: #1D3557;
+    margin-top: 5em;
+    width: 60%;
+    padding-left: 3em;
+    font-size: 1em;
+    padding-right: 7em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    margin-left: auto;
+}
+
+.participation a {
+    color: #E63946;
+    text-decoration: none;
+}
+
+.participation p abbr {
+    color: #E63946;
+}
+.benefits {
+     background-color: #457B9D;
+    margin-top: 5em;
+    width: 60%;
+    padding-left: 7em;
+    font-size: 1em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+.benefits p abbr{
+    color: #1D3557
+}
+
+.requirements {
+    background-color: #1D3557;
+    margin-top: 5em;
+    width: 60%;
+    padding-left: 3em;
+    font-size: 1em;
+    padding-right: 7em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    margin-left: auto;
+}
+.requirements p abbr{
+    color: #E63946
+}
+.requirements p a{
+    color: #E63946
+}
+
+footer {
+    text-align: center;
+    margin: auto;
+    margin-top: 2em;
+    width: 30%;
+    display: flex;
+    justify-content: space-between
+}
+footer a{
+    color: #1D3557;
+    text-decoration: none;
+}
+
+
+
