@@ -522,3 +522,9 @@ h3 {
 
 .item101 {
 }
+
+.newitems1 {
+    grid-column: span 5 ;
+    grid-row: span 3;
+}
+
