@@ -174,7 +174,17 @@ body {
 /* SMALL SIZE */
 @media screen and (max-width: 640px) {
     body {
-        
         margin: 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .navbar > a {
+    padding-right: 1.5em;
+}
+    
+    .navbar > a:nth-child(2) {
+    padding: 0;
+    display: none;
     }
 }

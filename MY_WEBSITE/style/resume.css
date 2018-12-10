@@ -126,5 +126,20 @@ body {
     }
 }
 
-
+@media screen and (max-width: 500px) {
+    .navbar > a {
+    padding-right: 1.5em;
+}
+    
+    .navbar > a:nth-child(2) {
+    padding: 0;
+    display: none;
+    }
+    
+    .textcontainer {
+    margin: auto;
+    width: 80%;
+    white-space: nowrap;
+    }
+}
 

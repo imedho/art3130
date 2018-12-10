@@ -57,13 +57,13 @@ body {
     height: 8em;
     align-items: center;
     justify-content: center;
+    padding-top: 5em;
 }
 
 .wrapper {
     width: 50%;
     margin: auto;
     margin-top: 3em;
-    height: 900px;
 }
 
 /* MEDIUM SIZE */
@@ -90,4 +90,12 @@ body {
 }
 
 
-
+@media screen and (max-width: 500px) {
+    .navbar > a {
+    padding-right: 1.5em;
+}
+    .navbar > a:nth-child(2) {
+    padding: 0;
+    display: none;
+    }
+}
